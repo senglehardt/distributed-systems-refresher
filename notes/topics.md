@@ -4,7 +4,10 @@ Two Generals
 
 CAP Theorem
 
-Types of consistency
+Types of consistency:
+* Strict
+* Eventual
+* ...
 
 RPC
 * At least once
