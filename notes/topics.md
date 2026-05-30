@@ -5,6 +5,7 @@ Two Generals
 CAP Theorem
 
 Types of consistency:
+* Causal
 * Strict
 * Eventual
 * ...
@@ -18,6 +19,8 @@ Primary-backup replication (see dslabs lab 2)
 
 Paxos (Zookeeper)
 Raft (etcd)
+
+Liveness
 
 Notes on Papers
 
